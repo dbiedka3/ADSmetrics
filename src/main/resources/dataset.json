@@ -1,0 +1,37 @@
+{
+  "seasonsPath": ".\\open-data\\data\\matches\\11\\",
+  "eventsPath": ".\\open-data\\data\\events\\",
+  "seasonFiles": [
+    {
+      "season": "2015/2016",
+      "file": "27.json"
+    },
+    {
+      "season": "2016/2017",
+      "file": "2.json"
+    },
+    {
+      "season": "2017/2018",
+      "file": "1.json"
+    },
+    {
+      "season": "2018/2019",
+      "file": "4.json"
+    },
+    {
+      "season": "2019/2020",
+      "file": "42.json"
+    }
+  ],
+  "eventType": "shot",
+  "eventSubType": "outcome",
+  "players": [
+    "ALL",
+    "Antoine Griezmann",
+    "Cristiano Ronaldo dos Santos Aveiro",
+    "Karim Benzema",
+    "Lionel Andrés Messi Cuccittini",
+    "Luis Alberto Suárez Díaz",
+    "Luka Modrić"
+  ]
+}
